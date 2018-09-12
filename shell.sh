@@ -5,11 +5,11 @@ ls -r
 ls -l
 uname -a
 hostname
-mv
+mv test1.class testing.java
 ls
-cd
+grep "University Of" file
 locate
-rm
+cal
 uname
 users
-time
+seq 1 1 6
